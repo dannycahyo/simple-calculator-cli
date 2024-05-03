@@ -4,7 +4,13 @@
 
 The Simple Calculator CLI is a command-line interface application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-### Initial & Solution Directory
+#### Pre-requisites
+
+- Node.js installed on your local machine.
+
+If you don't have Node.js installed, you can download it from the official website: [Node.js](https://nodejs.org/).
+
+#### Initial & Solution Directory
 
 - The `initial` directory contains the initial implementation of the Simple Calculator CLI.
 - The `solution` directory contains the solution implementation of the Simple Calculator CLI.
